@@ -34996,8 +34996,8 @@
                 "species": "SPECIES_ZUBAT"
               },
               {
-                "min_level": 2,
-                "max_level": 2,
+                "min_level": 3,
+                "max_level": 4,
                 "species": "SPECIES_TEDDIURSA"
               },
               {
@@ -35007,7 +35007,7 @@
               },
               {
                 "min_level": 4,
-                "max_level": 4,
+                "max_level": 5,
                 "species": "SPECIES_LARVITAR"
               },
               {
@@ -37715,8 +37715,8 @@
                 "species": "SPECIES_ABRA"
               },
               {
-                "min_level": 14,
-                "max_level": 14,
+                "min_level": 15,
+                "max_level": 15,
                 "species": "SPECIES_MANKEY"
               },
               {
@@ -37814,8 +37814,8 @@
                 "species": "SPECIES_GRIMER"
               },
               {
-                "min_level": 14,
-                "max_level": 14,
+                "min_level": 15,
+                "max_level": 15,
                 "species": "SPECIES_DROWZEE"
               },
               {
@@ -38361,8 +38361,8 @@
                 "species": "SPECIES_WEEDLE"
               },
               {
-                "min_level": 17,
-                "max_level": 17,
+                "min_level": 15,
+                "max_level": 15,
                 "species": "SPECIES_SUNKERN"
               },
               {
@@ -38381,28 +38381,28 @@
                 "species": "SPECIES_NIDORAN_M"
               },
               {
+                "min_level": 16,
+                "max_level": 16,
+                "species": "SPECIES_SUNKERN"
+              },
+              {
+                "min_level": 10,
+                "max_level": 10,
+                "species": "SPECIES_CATERPIE"
+              },
+              {
+                "min_level": 16,
+                "max_level": 16,
+                "species": "SPECIES_SUNKERN"
+              },
+              {
+                "min_level": 10,
+                "max_level": 10,
+                "species": "SPECIES_CATERPIE"
+              },
+              {
                 "min_level": 17,
                 "max_level": 17,
-                "species": "SPECIES_SUNKERN"
-              },
-              {
-                "min_level": 10,
-                "max_level": 10,
-                "species": "SPECIES_CATERPIE"
-              },
-              {
-                "min_level": 16,
-                "max_level": 16,
-                "species": "SPECIES_SUNKERN"
-              },
-              {
-                "min_level": 10,
-                "max_level": 10,
-                "species": "SPECIES_CATERPIE"
-              },
-              {
-                "min_level": 16,
-                "max_level": 16,
                 "species": "SPECIES_SCYTHER"
               }
             ]
@@ -38420,8 +38420,8 @@
                 "species": "SPECIES_PSYDUCK"
               },
               {
-                "min_level": 17,
-                "max_level": 17,
+                "min_level": 15,
+                "max_level": 15,
                 "species": "SPECIES_MURKROW"
               },
               {
@@ -38445,8 +38445,8 @@
                 "species": "SPECIES_PSYDUCK"
               },
               {
-                "min_level": 17,
-                "max_level": 17,
+                "min_level": 16,
+                "max_level": 16,
                 "species": "SPECIES_MURKROW"
               },
               {
@@ -38470,8 +38470,8 @@
                 "species": "SPECIES_VENONAT"
               },
               {
-                "min_level": 16,
-                "max_level": 16,
+                "min_level": 17,
+                "max_level": 17,
                 "species": "SPECIES_SCYTHER"
               }
             ]
