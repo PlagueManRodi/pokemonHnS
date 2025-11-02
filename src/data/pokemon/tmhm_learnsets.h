@@ -3339,6 +3339,7 @@ const union {
         .SECRET_POWER = TRUE,
         .REST = TRUE,
         .ATTRACT = TRUE,
+        .FLY = TRUE,
         .SURF = TRUE,
         .STRENGTH = TRUE,
         .ROCK_SMASH = TRUE,
@@ -5372,6 +5373,7 @@ const union {
         .THIEF = TRUE,
         .STEEL_WING = TRUE,
         .CUT = TRUE,
+        .FLY = TRUE,
         .STRENGTH = TRUE,
         .ROCK_SMASH = TRUE,
     } },
@@ -10670,9 +10672,9 @@ const union {
         .THIEF = TRUE,
         .STEEL_WING = TRUE,
         .CUT = TRUE,
+        .FLY = TRUE,
         .STRENGTH = TRUE,
         .ROCK_SMASH = TRUE,
-        .FLY = TRUE,
     } }, 
         
     [SPECIES_HAPPINY] = { .learnset = {
